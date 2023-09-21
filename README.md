@@ -29,6 +29,14 @@ cat output.txt
 ```
 
 
+## Advantages
+
+Completly bypasses AV in VirusTotal and Windows Defender
+
+## Disadvantages
+
+Not a clean interface
+
 
 
 
