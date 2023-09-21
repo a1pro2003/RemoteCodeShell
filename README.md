@@ -13,20 +13,20 @@ The output is then stored in a file and uploaded via POST request using PowerShe
 
 ## Usage
 Change {IP} in main.bat
-"""
+'''
 python server.py
-"""
+'''
 
 Execute this to store the command in command.txt. Chance {any command} to desired command.
-"""
+'''
 echo command={any command} > commant.txt
-"""
+'''
 
 Execute main.bat on the victim machine.
 
-"""
+'''
 cat output.txt
-"""
+'''
 
 
 
